@@ -1,6 +1,6 @@
 # venta-productos
 
-API para el Sistema de ventas de productos a clientes - 2do Final BACKEND 
+API para el sistema de ventas de productos a clientes - 2do Final BACKEND 
 
 ## Requerimientos
 
@@ -60,5 +60,8 @@ API para el Sistema de ventas de productos a clientes - 2do Final BACKEND
     ```
 
 6. Usuario administrador
+```bash
     user: admin
     password: admin
+    ```
+    
